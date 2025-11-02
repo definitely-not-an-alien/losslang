@@ -8,5 +8,7 @@ We can treat each panel/subsection as part of an instruction set and each "comic
 
 Furthermore, in each square more "comic"s can be embedded for instructions to be run inside of a running section.
 
+![](https://github.com/definitely-not-an-alien/losslang/blob/main/losslang.png)
+
 # Specification
 (work-in-progress)
